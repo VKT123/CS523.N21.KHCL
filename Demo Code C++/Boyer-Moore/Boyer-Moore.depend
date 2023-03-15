@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678892958 source:d:\project c++\boyer-moore\main.cpp
+	<iostream>
+	<cstring>
+	<algorithm>
+
