@@ -1,11 +1,11 @@
-# Cấu Trúc Dữ Liệu Và Giải Thuật Nâng Cao - CS523.N21.KHCL
-## Giới thiệu môn học
+<h1> Cấu Trúc Dữ Liệu Và Giải Thuật Nâng Cao - CS523.N21.KHCL </h1>
+<h2> Giới thiệu môn học </h2>
 <ul>
 <li>Tên môn học: Cấu trúc dữ liệu và giải thuật nâng cao</li>
 <li>Niên khóa: 2022-2023</li>
 <li>Giảng viên hướng dẫn: Ths. Nguyễn Thanh Sơn - <a href="sonnt@uit.edu.vn" >sonnt@uit.edu.vn</a></li>
 </ul>
-### Thành viên nhóm
+<h2> Thành viên nhóm </h2>
 <table>
   <tr>
     <th align="left"> Họ và tên </th>
@@ -28,11 +28,11 @@
     <th align="left"> <a href="21520531@gm.uit.edu.vn" >21520531@gm.uit.edu.vn</a> </th>
   </tr>
 </table>
-#### Chủ đề
+<h2> Chủ đề </h2>
 <body>
 <h4> Đối sánh chuỗi (Pattern Matching) </h4>
 </body>
-##### Link Quizizz
+<h2> Link Quizizz </h2>
 <body>
 <a href="https://quizizz.com/admin/quiz/641493bacbb060001d879560?source=quiz_share" >https://quizizz.com/admin/quiz/641493bacbb060001d879560?source=quiz_share</a>
 </body>
