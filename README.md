@@ -33,4 +33,6 @@
   <li> Đối sánh chuỗi (Pattern Matching)</li>
 </ul>
 <h2> Link Quizizz </h2>
-<a href="https://quizizz.com/admin/quiz/641493bacbb060001d879560?source=quiz_share" >https://quizizz.com/admin/quiz/641493bacbb060001d879560?source=quiz_share</a>
+<ul>
+<li><a href="https://quizizz.com/admin/quiz/641493bacbb060001d879560?source=quiz_share" >https://quizizz.com/admin/quiz/641493bacbb060001d879560?source=quiz_share</a></ul>
+</ul>
