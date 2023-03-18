@@ -5,7 +5,7 @@
 <li>Niên khóa: 2022-2023</li>
 <li>Giảng viên hướng dẫn: Ths. Nguyễn Thanh Sơn - <a href="sonnt@uit.edu.vn" >sonnt@uit.edu.vn</a></li>
 </ul>
-## Thành viên nhóm
+### Thành viên nhóm
 <table>
   <tr>
     <th align="left"> Họ và tên </th>
@@ -28,11 +28,11 @@
     <th align="left"> <a href="21520531@gm.uit.edu.vn" >21520531@gm.uit.edu.vn</a> </th>
   </tr>
 </table>
-<header> Chủ đề </header>
+#### Chủ đề
 <body>
 <h4> Đối sánh chuỗi (Pattern Matching) </h4>
 </body>
-<header> Link Quizizz </header>
+##### Link Quizizz
 <body>
 <a href="https://quizizz.com/admin/quiz/641493bacbb060001d879560?source=quiz_share" >https://quizizz.com/admin/quiz/641493bacbb060001d879560?source=quiz_share</a>
 </body>
