@@ -30,11 +30,7 @@
 </table>
 <h2> Chủ đề </h2>
 <ul>
-  <li>
-  Đối sánh chuỗi (Pattern Matching) 
-  </li>
+  <li> Đối sánh chuỗi (Pattern Matching)</li>
 </ul>
 <h2> Link Quizizz </h2>
-<body>
 <a href="https://quizizz.com/admin/quiz/641493bacbb060001d879560?source=quiz_share" >https://quizizz.com/admin/quiz/641493bacbb060001d879560?source=quiz_share</a>
-</body>
