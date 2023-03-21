@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1679157432 source:d:\project c++\demo code c++\visualization\main.cpp
+	<algorithm>
+	<iostream>
+	<sstream>
+	<cstring>
+	<vector>
+	<random>
+	<cmath>
+	<stdlib.h>
+
