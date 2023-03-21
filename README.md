@@ -30,7 +30,7 @@
 </table>
 <h2> Chủ đề </h2>
 <ul>
-  <li> Đối sánh chuỗi (Pattern Matching)</li>
+  <li> Đối sánh mẫu (Pattern Matching)</li>
 </ul>
 <h2> Link Socrative </h2>
 <ul>
