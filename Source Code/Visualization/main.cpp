@@ -470,7 +470,7 @@ int main()
         cout << "| 0. Exit                                                      |" << endl;
         cout << "| 1. Brute Force                                               |" << endl;
         cout << "| 2. Boyer Moore                                               |" << endl;
-        cout << "| 3. Knute Morris Prath                                        |" << endl;
+        cout << "| 3. Knuth Morris Pratt                                        |" << endl;
         cout << "| 4. Rabin Karp                                                |" << endl;
         cout << "----------------------------------------------------------------" << endl;
         cout << "Select option: ";
