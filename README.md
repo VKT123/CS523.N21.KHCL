@@ -34,5 +34,11 @@
 </ul>
 <h2> Link Socrative </h2>
 <ul>
-<li></li>
+<li> <a href="https://b.socrative.com/teacher/#import-quiz/71105175"></li>
+</ul>
+<h2> References </h2>
+<ul>
+<li>
+<a href="https://github.com/VKT123/CS523.N21.KHCL/blob/main/References/Algorithms-4th-Edition.pdf">Robert Sedgewick, Algorithms-4th-Edition, Addison Wesley, 1985: từ trang 758-809 </a>
+</li>
 </ul>
