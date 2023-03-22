@@ -39,6 +39,15 @@
 <h2> References </h2>
 <ul>
 <li>
-<a href="https://github.com/VKT123/CS523.N21.KHCL/blob/main/References/Algorithms-4th-Edition.pdf">Robert Sedgewick, Algorithms-4th-Edition, Addison Wesley, 1985: từ trang 758-809 </a>
+<a href="https://github.com/VKT123/CS523.N21.KHCL/blob/main/References/Algorithms-4th-Edition.pdf">Robert Sedgewick, Algorithms-4th-Edition, Addison Wesley: từ trang 758-809 </a>
+</li>
+<li>
+<a href="https://github.com/VKT123/CS523.N21.KHCL/blob/main/References/Introduction.to.Algorithms.4th.Edition.2022.4.pdf">Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduction to Algorithms-4th-Edition, MIT Press: từ trang 957-1002 </a>
+</li>
+<li>
+<a href="http://jovilab.sinaapp.com/visualization/algorithms/strings/kmp">http://jovilab.sinaapp.com/visualization/algorithms/strings/kmp</a>
+</li>
+<li>
+<a href="https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/">https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/</a>
 </li>
 </ul>
