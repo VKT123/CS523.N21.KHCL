@@ -34,7 +34,7 @@
 </ul>
 <h2> Link Socrative </h2>
 <ul>
-<li> <a href="https://b.socrative.com/teacher/#import-quiz/71105175"></li>
+  <li> <a href="https://b.socrative.com/teacher/#import-quiz/71105175">https://b.socrative.com/teacher/#import-quiz/71105175</a></li>
 </ul>
 <h2> References </h2>
 <ul>
