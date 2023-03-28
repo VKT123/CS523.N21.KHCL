@@ -17,7 +17,7 @@
   <li> Trần Quang Khải - 21520955 </li>
   <li> Nguyễn Mai Chí Tấn - 21521414 </li>
   <h3><b> Nhóm 2 </b></h3>
-  <li> Nguyễn Hoàng Tân - 21522595 </li>
-  <li> Nguyễn Ngọc Quang Huy- 21522295 </li>
-  <li> Lê Huỳnh Khánh Duy - 18521255 </li>
+  <li> Nguyễn Hoàng Tân </li>
+  <li> Nguyễn Ngọc Quang Huy </li>
+  <li> Lê Huỳnh Khánh Duy</li>
 </ul>
