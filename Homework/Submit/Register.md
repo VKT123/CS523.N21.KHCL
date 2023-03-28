@@ -1,5 +1,13 @@
 # Ghi tên nhóm và các thành viên của bạn tại đây!!!
 <ul>
+  <h3><b> Nhóm 2 </b></h3>
+  <li> Nguyễn Hoàng Tân </li>
+  <li> Nguyễn Ngọc Quang Huy </li>
+  <li> Lê Huỳnh Khánh Duy</li>
+  <h3><b> Nhóm 4 </b></h3>
+  <li> Phan Huy Hoàng- 21520242 </li>
+  <li> Lê Văn Trường - 21522733 </li>
+  <li> Ngô Đức Hoàng Hiệp - 21520846 </li>
   <h3><b> Nhóm 6 </b></h3>
   <li> Lê Đào Xuân Thành - 21522595 </li>
   <li> Lê Trần Bảo Lợi - 21522295 </li>
@@ -16,8 +24,8 @@
   <li> Trần Thanh Hà - 21521749 </li>
   <li> Trần Quang Khải - 21520955 </li>
   <li> Nguyễn Mai Chí Tấn - 21521414 </li>
-  <h3><b> Nhóm 2 </b></h3>
-  <li> Nguyễn Hoàng Tân </li>
-  <li> Nguyễn Ngọc Quang Huy </li>
-  <li> Lê Huỳnh Khánh Duy</li>
+  <h3><b> Nhóm 14 </b></h3>
+  <li> Thi Vĩnh Huy - 21522165 </li>
+  <li> Đỗ Quốc Duy - 21520768 </li>
+  <li> Từ Trương Tuấn Kiệt - 19521727 </li>
 </ul>
