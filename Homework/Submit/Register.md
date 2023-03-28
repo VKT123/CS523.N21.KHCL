@@ -8,6 +8,10 @@
   <li> Nguyễn Minh Hiếu - 21520853 </li>
   <li> Nguyễn Hoàng Nguyên - 21521203 </li>
   <li> Phan Thanh Quang - 21521350 </li>
+  <h3><b> Nhóm 12 </b></h3>
+  <li> Đoàn Quang Hưng - 21520884 </li>
+  <li> Bùi Đình Quân - 21522487 </li>
+  <li> Nguyễn Đông Anh - 21520569 </li>
   <h3><b> Nhóm 13 </b></h3>
   <li> Trần Thanh Hà - 21521749 </li>
   <li> Trần Quang Khải - 21520955 </li>
