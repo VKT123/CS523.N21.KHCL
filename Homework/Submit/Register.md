@@ -1,6 +1,10 @@
 # Ghi tên nhóm và các thành viên của bạn tại đây!!!
 <ul>
-    <h3><b> Nhóm 4 </b></h3>
+  <h3><b> Nhóm 2 </b></h3>
+  <li> Nguyễn Hoàng Tân </li>
+  <li> Nguyễn Ngọc Quang Huy </li>
+  <li> Lê Huỳnh Khánh Duy</li>
+  <h3><b> Nhóm 4 </b></h3>
   <li> Phan Huy Hoàng- 21520242 </li>
   <li> Lê Văn Trường - 21522733 </li>
   <li> Ngô Đức Hoàng Hiệp - 21520846 </li>
