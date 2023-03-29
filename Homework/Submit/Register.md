@@ -1,5 +1,9 @@
 # Ghi tên nhóm và các thành viên của bạn tại đây!!!
 <ul>
+  <h3><b> Nhóm 1 </b></h3>
+  <li> Trần Duy Tùng </li>
+  <li> Trần Thanh Tùng </li>
+  <li> Dương Việt Thắng</li>
   <h3><b> Nhóm 2 </b></h3>
   <li> Nguyễn Hoàng Tân </li>
   <li> Nguyễn Ngọc Quang Huy </li>
@@ -32,8 +36,4 @@
   <li> Thi Vĩnh Huy - 21522165 </li>
   <li> Đỗ Quốc Duy - 21520768 </li>
   <li> Từ Trương Tuấn Kiệt - 19521727 </li>
-  <h3><b> Nhóm q </b></h3>
-  <li> Trần Duy Tùng </li>
-  <li> Trần Thanh Tùng </li>
-  <li> Dương Việt Thắng</li>
 </ul>
