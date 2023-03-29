@@ -16,6 +16,10 @@
   <li> Lê Đào Xuân Thành - 21522595 </li>
   <li> Lê Trần Bảo Lợi - 21522295 </li>
   <li> Nguyễn Duy Phúc - 18521255 </li>
+  <h3><b> Nhóm 7 </b></h3>
+  <li> Huỳnh Hoàng Khánh - 21520976 </li>
+  <li> Nguyễn Quốc Hưng - 21520253 </li>
+  <li> Nguyễn Chánh Nghĩa - 21520362 </li>
   <h3><b> Nhóm 9 </b></h3>
   <li> Nguyễn Tô Thiên Bảo - 21521857 </li>
   <li> Hồ Trung Tín – 21521536 </li>
